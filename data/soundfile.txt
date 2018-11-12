@@ -1,0 +1,4 @@
+0 default [default]
+1 PCH [plughw:0,0]
+2 PCH [plughw:0,3]
+3 Port PCH [hw:0]
